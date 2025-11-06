@@ -32,7 +32,7 @@ I love coding 💻, exploring new technologies, and I'm currently focused on mas
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 ### 🎨 UI Components & Tools
 ![Flowbite](https://img.shields.io/badge/Flowbite-4C51BF?style=for-the-badge&logo=flowbite&logoColor=white)
