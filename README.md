@@ -49,16 +49,17 @@ I love coding 💻, exploring new technologies, and I'm currently focused on mas
 - **[My Portfolio](https://portofoliomla.netlify.app/)**
 
   > **Status:** Live. A personal showcase of my development skills and projects, built using **HTML, Tailwind CSS, and vanilla JavaScript** for a performant and modern design.
-  > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  > ![Tailwind](https://img.shields.io/badge/Tailwind-💨-06B6D4?style=for-the-badge)
-  > ![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) > ![Tailwind](https://img.shields.io/badge/Tailwind-💨-06B6D4?style=for-the-badge) > ![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+  - **[My Portfolio](https://lutfi-dika.github.io/MY-Portofolio/)**
+
+  > **Status:** Live. A personal showcase of my development skills and projects, built using **HTML, Tailwind CSS, and vanilla JavaScript** for a performant and modern design.
+  > ![React](https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge) >
 
 - **[School Website Template](https://github.com/username/school-website)**
 
   > **Status:** 🚧 **Ongoing Development**. This is my current major project, focused on building a modern, dynamic website template for educational institutions using the **React** framework.
-  > ![React](https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge)
-  > ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  > ![React](https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge) > ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   ## 🏆 Pencapaian & Penghargaan
 
