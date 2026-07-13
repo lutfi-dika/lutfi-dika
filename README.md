@@ -1,84 +1,131 @@
-## ![Lutfi Andika](github-header-banner.png)
+<div align="center">
 
-# Hi, I'm Lutfi Andika, a Web Developer currently diving into React! ⚛️ 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:06B6D4&height=220&section=header&text=Lutfi%20Andika&fontSize=48&fontColor=1A1A2E&fontAlignY=38&desc=Web%20Developer%20%7C%20Mobile%20Dev%20in%20Progress&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-## About Me 🧑‍💻
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=45&lines=Building+modern+web+experiences+%E2%9A%9B%EF%B8%8F;Now+learning+Mobile+Development+with+Flutter+%F0%9F%93%B1;Turning+ideas+into+real+products+%F0%9F%92%BB" alt="Typing SVG" />
 
-I'm a **Web Developer** passionate about the full front-end stack (**HTML, CSS, JavaScript**) and specializing in building impactful **educational/school websites** 🏫. My goal is to combine technology and education to create interactive learning experiences 📚.
+<img src="https://komarev.com/ghpvc/?username=lutfi-dika&label=Profile%20Views&color=61DAFB&style=flat-square" alt="profile views" />
 
-I love coding 💻, exploring new technologies, and I'm currently focused on mastering the **React.js** framework to create dynamic, modern user interfaces.
-
-![Coding Animation](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+</div>
 
 ---
 
-## 🚀 Current Focus
+### 🧑‍💻 About Me
 
-🔥 Deep diving into **React.js** for modern component-based UI development.
-✨ Exploring state management and hooks in React.
+I'm passionate about creating digital solutions that make a real impact. As a **Web Developer**, I focus on building responsive, modern, and user-friendly web applications with a strong emphasis on performance and great user experience — including educational platforms that combine technology with learning 🏫.
 
----
+Beyond web development, I'm learning **Flutter** to build cross-platform mobile applications and continuously growing my skills across the full software development ecosystem. 💻📱
 
-## Skills 🛠️
-
-### 💻 Core Languages & Backend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Database](https://img.shields.io/badge/Database-FF9900?style=for-the-badge)
-
-### ⚛️ Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🎨 UI Components & Tools
-
-![AOS Animation](https://img.shields.io/badge/AOS_Animation-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Flowbite](https://img.shields.io/badge/Flowbite-4C51BF?style=for-the-badge&logo=flowbite&logoColor=white)
-![Gekshelp](https://img.shields.io/badge/Gekshelp-FF6F61?style=for-the-badge)
-![Uiverse](https://img.shields.io/badge/Uiverse-5C6BC0?style=for-for-the-badge)
+> 🔭 **Currently building:** a React-based school website template
+> 📱 **Currently learning:** Mobile Development with Flutter
+> 💬 **Ask me about:** React, Laravel, MySQL, or Flutter
+> 📫 **Reach me at:** lutfiandika33@gmail.com
 
 ---
 
-## Projects 📂
+### 🛠️ Skills & Proficiency
 
-- **[My Portfolio](https://portofoliomla.netlify.app/)**
+**🎨 Frontend Mastery**
 
-  > **Status:** Live. A personal showcase of my development skills and projects, built using **HTML, Tailwind CSS, and vanilla JavaScript** for a performant and modern design.
-  > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) > ![Tailwind](https://img.shields.io/badge/Tailwind-💨-06B6D4?style=for-the-badge) > ![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Skill         | Level       |
+| ------------- | ----------- |
+| 🔶 HTML       | 🟢 Advanced |
+| 🎨 CSS        | 🟢 Advanced |
+| 🟨 JavaScript | 🟢 Advanced |
+| ⚛️ React      | 🟢 Advanced |
+| 🧠 TypeScript | 🟢 Advanced |
 
-  - **[My Portfolio](https://lutfi-dika.github.io/MY-Portofolio/)**
+**🧩 Frameworks & Libraries**
 
-  > **Status:** Live. A personal showcase of my development skills and projects, built using **HTML, Tailwind CSS, and vanilla JavaScript** for a performant and modern design.
-  > ![React](https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge) >
+| Skill            | Level           |
+| ---------------- | --------------- |
+| 🌬️ Tailwind CSS  | 🟢 Advanced     |
+| 🅱️ Bootstrap     | 🟢 Advanced     |
+| 🎨 UIverse       | 🟡 Intermediate |
+| ✨ AOS Animation | 🟡 Intermediate |
+| 🧩 Flowbite      | 🟡 Intermediate |
+| 🧠 GeeksHelp     | 🟡 Intermediate |
 
-- **[School Website Template](https://github.com/username/school-website)**
+**🖥️ Backend & Systems**
 
-  > **Status:** 🚧 **Ongoing Development**. This is my current major project, focused on building a modern, dynamic website template for educational institutions using the **React** framework.
-  > ![React](https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge) > ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Skill         | Level            |
+| ------------- | ---------------- |
+| 🐘 PHP        | 🟢 Advanced      |
+| 🛢️ phpMyAdmin | 🟡 Intermediate  |
+| 🚀 Laravel    | 🔵 Being Studied |
 
-  ## 🏆 Pencapaian & Penghargaan
+**🔧 Tools & Platforms**
 
-- **Juara 3** Lomba **Front-End Development** tingkat perguruan tinggi/nasional yang diselenggarakan oleh **PNJ** (Politeknik Negeri Jakarta).
-  - _Pengakuan atas keahlian dalam membangun antarmuka pengguna yang responsif dan efisien._
+| Skill      | Level       |
+| ---------- | ----------- |
+| 💻 GitHub  | 🟢 Advanced |
+| 📝 VS Code | 🟢 Advanced |
+| 🔧 Git     | 🟢 Advanced |
+
+**📱 Mobile Development** <sub>(learning)</sub>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perspective=true" />
+</div>
 
 ---
 
-## Connect with Me 🤝
+### 📂 Featured Projects
 
-[![Email](https://img.shields.io/badge/Email-your.lutfiandika33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.lutfiandika33@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-@lutfiandika33-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/303.andika)
+<div align="center">
+
+<a href="https://lutfi-dika.github.io/MY-PORTOFOLIO-NEW">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lutfi-dika&repo=MY-Portofolio&theme=vue-dark&hide_border=true" />
+</a>
+
+</div>
+
+| Project                                                        | Description                                   | Status  | Stack              |
+| -------------------------------------------------------------- | --------------------------------------------- | ------- | ------------------ |
+| 🌐 [Portfolio](https://lutfi-dika.github.io/MY-PORTOFOLIO-NEW) | Personal showcase of my dev skills & projects | ✅ Live | HTML, Tailwind, JS |
+
+---
+
+### 🏆 Achievements
+
+🥉 **3rd Place** — Front-End Development Competition, organized by **PNJ (Politeknik Negeri Jakarta)**
+🥉 **3rd Place** — Competition at **IDN Boarding School**
+🛡️ **Provincial-level Participant** — **LKS (Lomba Kompetensi Siswa) Cyber Security 2026**
+
+> Recognized for building responsive, efficient interfaces and for growing expertise beyond web development into cybersecurity.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lutfi-dika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfi-dika&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfi-dika&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-trophy.vercel.app/?username=lutfi-dika&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lutfi-dika&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-lutfiandika33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lutfiandika33@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@303.andika-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/303.andika)
+
+</div>
 
 > Feel free to reach out if you'd like to collaborate on a project, especially one related to technology and education! 💬
 
----
-
-## GitHub Stats
-
-![Lutfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutfi-dika&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfi-dika&layout=compact&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:61DAFB&height=100&section=footer" width="100%"/>
