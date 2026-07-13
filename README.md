@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm passionate about creating digital solutions that make a real impact. As a **Web Developer**, I focus on building responsive, modern, and user-friendly web applications with a strong emphasis on performance and great user experience — including educational platforms that combine technology with learning 🏫.
+I'm passionate about creating digital solutions that make a real impact. As a **WEB DEVELOPER**, I focus on building responsive, modern, and user-friendly web applications with a strong emphasis on performance and great user experience.
 
 Beyond web development, I'm learning **Flutter** to build cross-platform mobile applications and continuously growing my skills across the full software development ecosystem. 💻📱
 
