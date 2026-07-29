@@ -10,7 +10,7 @@
 
 <a href="https://lutfi-dika.github.io/MY-PORTOFOLIO-NEW"><img src="https://img.shields.io/badge/View_Projects-000000?style=for-the-badge&logoColor=white" /></a>
 <a href="https://github.com/lutfi-dika"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" /></a>
-<a href="mailto:lutfiandika33@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 </div>
 
